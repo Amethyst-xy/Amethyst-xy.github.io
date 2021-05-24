@@ -1016,6 +1016,7 @@ html {
 .left-col #header .profilepic {
     display: block;
     border-radius: 300px;
+    border: 1px solid red;
     width: 128px;
     height: 128px;
     margin: 0 auto;
