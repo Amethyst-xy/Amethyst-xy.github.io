@@ -1,0 +1,18 @@
+.article-title{
+    font:700 38px /40px 华文行楷 !important;
+    color: blueviolet !important;
+    text-shadow: 0px 1px 1px #000;
+}
+
+:root{
+    --global-bg:linear-gradient(#000,blueviolet,#fff) !important;
+    --btn-bg:rgba(0,0,0,0.1) !important;
+}
+#recent-posts > .recent-post-item{
+    background-color: rgba(250,250,250,0.7) !important;
+    margin-bottom: 35px !important;
+    border-radius: 2px !important;
+}
+#recent-posts > .recent-post-item:hover{
+    box-shadow: 0px 0px 15px lightblue;
+}
